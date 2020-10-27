@@ -1,0 +1,20 @@
+#header-nav{
+  background-color: #CB1B45;
+
+}
+.navbar .navbar-header a, .navbar .navbar-header span{
+  color:white;
+}
+
+#nav-list a{
+  color: white;
+}
+
+#main-content{
+  margin-bottom: 100px;
+}
+
+.menu-tile{
+  background-color: #FB966E;
+  border:15px solid white ;
+}
